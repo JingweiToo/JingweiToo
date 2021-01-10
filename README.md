@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there 👋 I am Jingwei Too
+### <h1 align="center"> Hi there 👋 I am [Jingwei Too](https://jingweitoo.wordpress.com/)
 
 
 <!--
@@ -17,8 +17,27 @@ Here are some ideas to get you started:
 -->
 
 
-Presently, I am an active open-source developer. You may check out my projects as follows:
+I am a research scientist who love programming. Presently, I am an active open-source developer. You may check out my projects:
 
+* `Jx-AFST : Advanced Feature Selection Toolbox`
+	* [Python](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
+* `Jx-WFST : Wrapper Feature Selection Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
+	* [Python](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
+* `Jx-FFST : A Filter Feature Selection Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/Filter-Feature-Selection-Toolbox)
+* `Jx-MLT : Machine Learning Toolbox` 
+	* Classification
+		* [MATLAB](https://github.com/JingweiToo/Machine-Learning-Toolbox)  
+		* [Python](https://github.com/JingweiToo/Machine-Learning-Toolbox-Python) 
+	* Regression
+		* [Python](https://github.com/JingweiToo/Machine-Learning-Regression-Toolbox)
+* `Jx-DLT : Deep Learning Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/Deep-Learning-Toolbox)
+* `Jx-EMGT : Electromyography Feature Extraction Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/EMG-Feature-Extraction-Toolbox)
+* `Jx-EEGT : Electroencephalogram Feature Extraction Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/EEG-Feature-Extraction-Toolbox)
 
 
 ## 😄: Stats
