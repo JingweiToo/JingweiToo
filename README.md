@@ -54,7 +54,7 @@ I am a research scientist who love programming. Presently, I am an active open-s
 <img src="https://komarev.com/ghpvc/?username=jingweitoo&label=Profile%20views&color=0e75b6&style=flat" alt="jingweitoo" /> </p>
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=jingweitoo&theme=chalk&margin-w=15" alt="jingweitoo" />
+	<img src="https://github-profile-trophy.vercel.app/?username=jingweitoo&theme=alduin&margin-w=15" alt="jingweitoo" />
 	</a> 
 </p>
 
