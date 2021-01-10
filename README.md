@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a research scientist who love programming. Presently, I am an active open-source developer. You may check out my projects:
+I am a research scientist who love programming. Presently, I am an active open-source contributor. You may check out my projects:
 
 * `Jx-AFST : Advanced Feature Selection Toolbox`
 	* [Python](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
