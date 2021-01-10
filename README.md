@@ -32,6 +32,8 @@ I am a research scientist who love programming. Presently, I am an active open-s
 		* [Python](https://github.com/JingweiToo/Machine-Learning-Toolbox-Python) 
 	* Regression
 		* [Python](https://github.com/JingweiToo/Machine-Learning-Regression-Toolbox)
+* `Jx-NNT : Neural Network Toolbox`
+	* [MATLAB](https://github.com/JingweiToo/Neural-Network-Toolbox)
 * `Jx-DLT : Deep Learning Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Deep-Learning-Toolbox)
 * `Jx-EMGT : Electromyography Feature Extraction Toolbox`
@@ -40,18 +42,18 @@ I am a research scientist who love programming. Presently, I am an active open-s
 	* [MATLAB](https://github.com/JingweiToo/EEG-Feature-Extraction-Toolbox)
 
 
-## 😄: Stats
+## 😄: Stat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=cobalt&langs_count=10&layout=compact)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jingweitoo&theme=calm&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jingweitoo&theme=calm&show_icons=true&count_private=true)
 
 
-## 🌱: Awards
+## 🌱: Trophy
 
 <img src="https://komarev.com/ghpvc/?username=jingweitoo&label=Profile%20views&color=0e75b6&style=flat" alt="jingweitoo" /> </p>
 <p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-zap">
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img src="https://github-profile-trophy.vercel.app/?username=jingweitoo&theme=chalk&margin-w=15" alt="jingweitoo" />
 	</a> 
 </p>
