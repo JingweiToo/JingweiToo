@@ -44,9 +44,9 @@ I am a research scientist who love programming. Presently, I am an active open-s
 
 ## 😄: Stat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=slateorange&langs_count=10&layout=compact)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=jingweitoo&theme=maroongold&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=slateorange&langs_count=10&layout=compact)
 
 
 ## 🌱: Trophy
