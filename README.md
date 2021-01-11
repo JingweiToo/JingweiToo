@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning on feature selection, deep learning and artificial intelligence
 
-💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=for-the-badge&logo=wordpress)](https://jingweitoo.wordpress.com/)
+💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat-square&logo=wordpress)](https://jingweitoo.wordpress.com/)
 
 📫 How to reach me : jingweitoo@gmail.com
 
