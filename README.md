@@ -11,7 +11,7 @@
 
 💬 Website : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat-square&logo=wordpress)](https://jingweitoo.wordpress.com/)
 
-📫 Mail : [![Mail](https://img.shields.io/badge/Mail-jingweitoo%40gmail.com-ff69b4?style=flat-square&logo=gmail)](jingweitoo@gmail.com)
+📫 Mail : [![Mail](https://img.shields.io/badge/Gmail-jingweitoo%40gmail.com-critical?style=flat-square&logo=gmail)]()
 
 <!--
 **JingweiToo/JingweiToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
