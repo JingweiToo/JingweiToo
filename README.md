@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jingweitoo&theme=maroongold&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=yeblu&langs_count=10&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=yeblu&langs_count=10&layout=compact)
 
 
 ## ⚡: Trophy
