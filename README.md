@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🔭 Presently, I' m an active open-source contributor. You may check out my projects:
 
 * `Jx-AFST : Advanced Feature Selection Toolbox`
-	* [Python](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
+	* [![Python](https://img.shields.io/badge/Python-Jx--AFST-lightgrey?style=flat&logo=python)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
 * `Jx-WFST : Wrapper Feature Selection Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
 	* [Python](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
