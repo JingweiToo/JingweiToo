@@ -1,11 +1,11 @@
 ### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=plastic&logo=mathworks)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
-[![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=plastic&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
-[![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=plastic&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
-[![Google](https://img.shields.io/badge/Google-Scholar-blue?style=plastic&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=plastic&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
+[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=flat&logo=mathworks)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
+[![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=flat&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
+[![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=flat&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
+[![Google](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
 
 🌱 I’m currently learning on feature selection, deep learning and artificial intelligence
 
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 🔭 Presently, I' m an active open-source contributor. You may check out my projects:
 
 * `Jx-AFST : Advanced Feature Selection Toolbox`
-	* [![Python](https://img.shields.io/badge/PYTHON-Jx--AFST-9cf?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
+	* [![Python](https://img.shields.io/badge/PYTHON-Jx--AFST-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
 * `Jx-WFST : Wrapper Feature Selection Toolbox`
 	* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--WFST-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
-	* [![Python](https://img.shields.io/badge/PYTHON-Jx--WFST-9cf?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
+	* [![Python](https://img.shields.io/badge/PYTHON-Jx--WFST-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
 * `Jx-FFST : Filter Feature Selection Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Filter-Feature-Selection-Toolbox)
 * `Jx-MLT : Machine Learning Toolbox` 
