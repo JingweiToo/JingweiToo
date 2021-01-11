@@ -1,5 +1,17 @@
-### <h1 align="center"> Hi there 👋 I am [Jingwei Too](https://jingweitoo.wordpress.com/)
+### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
 
+[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=flat&logo=mathwork)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
+[![Publons](https://img.shields.io/badge/Publons-Jingwei%20Too-9cf?style=flat&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
+[![SCOPUS](https://img.shields.io/badge/SCOPUS-Jingwei%20Too-orange?style=flat&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
+[![Google](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
+
+🌱 I’m currently learning on feature selection, deep learning and artificial intelligence
+
+💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=plastic&logo=wordpress)](https://jingweitoo.wordpress.com/)
+
+📫 How to reach me : jingweitoo@gmail.com
 
 <!--
 **JingweiToo/JingweiToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +19,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,15 +27,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-I am a research scientist who love programming. Presently, I am an active open-source contributor. You may check out my projects:
+🔭 Presently, I' m an active open-source contributor. You may check out my projects:
 
 * `Jx-AFST : Advanced Feature Selection Toolbox`
 	* [Python](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
 * `Jx-WFST : Wrapper Feature Selection Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
 	* [Python](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
-* `Jx-FFST : A Filter Feature Selection Toolbox`
+* `Jx-FFST : Filter Feature Selection Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Filter-Feature-Selection-Toolbox)
 * `Jx-MLT : Machine Learning Toolbox` 
 	* Classification
@@ -49,7 +59,7 @@ I am a research scientist who love programming. Presently, I am an active open-s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingweitoo&theme=yeblu&langs_count=10&layout=compact)
 
 
-## 🌱: Trophy
+## ⚡: Trophy
 
 <img src="https://komarev.com/ghpvc/?username=jingweitoo&label=Profile%20views&color=0e75b6&style=flat" alt="jingweitoo" /> </p>
 <p align="left"> 
