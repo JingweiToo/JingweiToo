@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=plastic&logo=mathwork)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
+[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=plastic&logo=mathworks)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
 [![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=plastic&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
 [![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=plastic&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 🔭 Presently, I' m an active open-source contributor. You may check out my projects:
 
 * `Jx-AFST : Advanced Feature Selection Toolbox`
-	* [![Python](https://img.shields.io/badge/Python-Jx--AFST-lightgrey?style=flat&logo=python)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
+	* [![Python](https://img.shields.io/badge/PYTHON-Jx--AFST-9cf?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
 * `Jx-WFST : Wrapper Feature Selection Toolbox`
-	* [MATLAB](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
-	* [Python](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
+	* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--WFST-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
+	* [![Python](https://img.shields.io/badge/PYTHON-Jx--WFST-9cf?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
 * `Jx-FFST : Filter Feature Selection Toolbox`
 	* [MATLAB](https://github.com/JingweiToo/Filter-Feature-Selection-Toolbox)
 * `Jx-MLT : Machine Learning Toolbox` 
