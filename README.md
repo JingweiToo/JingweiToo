@@ -1,15 +1,15 @@
 ### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=for-the-badge&logo=mathwork)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
-[![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=for-the-badge&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
-[![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=for-the-badge&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
-[![Google](https://img.shields.io/badge/Google-Scholar-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
+[![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=plastic&logo=mathwork)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
+[![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=plastic&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
+[![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=plastic&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
+[![Google](https://img.shields.io/badge/Google-Scholar-blue?style=plastic&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=plastic&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
 
 🌱 I’m currently learning on feature selection, deep learning and artificial intelligence
 
-💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=plastic&logo=wordpress)](https://jingweitoo.wordpress.com/)
+💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=for-the-badge&logo=wordpress)](https://jingweitoo.wordpress.com/)
 
 📫 How to reach me : jingweitoo@gmail.com
 
