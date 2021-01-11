@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
+### <h1 align="center"> Hi there 👋 I am Too Jing Wei [![Mail](https://img.shields.io/badge/Gmail-jingweitoo%40gmail.com-critical?style=flat-square&logo=gmail)]()
 
 ---
 > [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat&logo=wordpress)](https://jingweitoo.wordpress.com/)
@@ -11,7 +11,7 @@
 ---
 
  
-[![Mail](https://img.shields.io/badge/Gmail-jingweitoo%40gmail.com-critical?style=flat-square&logo=gmail)]()
+
 
 <!--
 **JingweiToo/JingweiToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
