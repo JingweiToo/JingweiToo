@@ -1,7 +1,7 @@
 ### <h1 align="center"> Hi there 👋 I am Too Jing Wei 
 
 ---
-> [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat-square&logo=wordpress)](https://jingweitoo.wordpress.com/)
+> [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat&logo=wordpress)](https://jingweitoo.wordpress.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=flat&logo=mathworks)](https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jingwei%20Too-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/too-jing-wei-1b62b41b0/)
 [![Publons](https://img.shields.io/badge/Publons-Review-9cf?style=flat&logo=publons)](https://publons.com/researcher/3096930/jingwei-too/)
