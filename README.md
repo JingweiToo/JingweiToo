@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ⚡ `Jx-DLT : Deep Learning Toolbox`
 * [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--DLT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Deep-Learning-Toolbox)
+* [![Python](https://img.shields.io/badge/PYTHON-Jx--DLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Deep-Learning-Toolbox-Python)
 
 ⚡ `Jx-EMGT : Electromyography Feature Extraction Toolbox`
 * [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--EMGT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/EMG-Feature-Extraction-Toolbox)
