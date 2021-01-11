@@ -9,9 +9,9 @@
 
 🌱 I’m currently learning on feature selection, deep learning and artificial intelligence
 
-💬 Ask me about : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat-square&logo=wordpress)](https://jingweitoo.wordpress.com/)
+💬 Website : [![WordPress](https://img.shields.io/badge/WordPress-Jingwei%20Too-blueviolet?style=flat-square&logo=wordpress)](https://jingweitoo.wordpress.com/)
 
-📫 How to reach me : jingweitoo@gmail.com
+📫 Mail : [![Mail](https://img.shields.io/badge/Mail-jingweitoo%40gmail.com-ff69b4?style=flat-square&logo=gmail)](jingweitoo@gmail.com)
 
 <!--
 **JingweiToo/JingweiToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
