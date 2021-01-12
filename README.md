@@ -33,16 +33,14 @@ Here are some ideas to get you started:
 * [![Python](https://img.shields.io/badge/PYTHON-Jx--AFST-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Advanced-Feature-Selection-Toolbox)
 
 ⚡ `Jx-WFST : Wrapper Feature Selection Toolbox`
-* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--WFST-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)  
-* [![Python](https://img.shields.io/badge/PYTHON-Jx--WFST-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
+* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--WFST-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox)   [![Python](https://img.shields.io/badge/PYTHON-Jx--WFST-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Wrapper-Feature-Selection-Toolbox-Python) 
 
 ⚡ `Jx-FFST : Filter Feature Selection Toolbox`
 * [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--FFST-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Filter-Feature-Selection-Toolbox)
 
 ⚡ `Jx-MLT : Machine Learning Toolbox` 
 * Classification
-	* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--MLT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Machine-Learning-Toolbox)  
-	* [![Python](https://img.shields.io/badge/PYTHON-Jx--MLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Machine-Learning-Toolbox-Python) 
+	* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--MLT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Machine-Learning-Toolbox)   [![Python](https://img.shields.io/badge/PYTHON-Jx--MLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Machine-Learning-Toolbox-Python) 
 * Regression
 	* [![Python](https://img.shields.io/badge/PYTHON-Jx--MLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Machine-Learning-Regression-Toolbox)
 
@@ -50,8 +48,7 @@ Here are some ideas to get you started:
 * [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--NNT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Neural-Network-Toolbox)
 
 ⚡ `Jx-DLT : Deep Learning Toolbox`
-* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--DLT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Deep-Learning-Toolbox)
-* [![Python](https://img.shields.io/badge/PYTHON-Jx--DLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Deep-Learning-Toolbox-Python)
+* [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--DLT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/Deep-Learning-Toolbox)   [![Python](https://img.shields.io/badge/PYTHON-Jx--DLT-blue?style=plastic&logo=python&logoColor=white)](https://github.com/JingweiToo/Deep-Learning-Toolbox-Python)
 
 ⚡ `Jx-EMGT : Electromyography Feature Extraction Toolbox`
 * [![MATLAB](https://img.shields.io/badge/MATLAB-Jx--EMGT-red?style=plastic&logo=mathworks)](https://github.com/JingweiToo/EMG-Feature-Extraction-Toolbox)
