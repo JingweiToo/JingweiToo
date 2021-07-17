@@ -8,6 +8,7 @@
 [![SCOPUS](https://img.shields.io/badge/SCOPUS-Preview-orange?style=flat&logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57194870435)
 [![Google](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=0FppPeUAAAAJu0026amp;hl=en&user=0FppPeUAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Jingwei_Too)
+[![SHOP.COM](https://img.shields.io/badge/SHOP.COM-Preview-blue?style=flat&logo=shop.com)](http://my.shop.com/jacenatural)
 ---
 
  
